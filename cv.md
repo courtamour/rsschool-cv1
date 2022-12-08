@@ -7,13 +7,13 @@
 
 **My Adress** novikova19992806@gmail.com
 
-***
+
 
 **Education**
 
 *2016-2020* Software engineer Mogilev State University of Food Technology
 
-***
+
 
 **Work Experience**
 
@@ -23,13 +23,13 @@
 
  *October 2020* - June 2021. Teacher of special disciplines in MSPC. Сonducting lectures, practical and laboratory classes in electrical engineering
 
-*** 
+
 
 **About Me**
 
 Good learning ability, analytic mind, desire to develop and learn new information. Creativity, sociability, politeness. Estimated english level: A2.
 
-***
+
 
 **Code example**
 
@@ -38,7 +38,7 @@ Good learning ability, analytic mind, desire to develop and learn new informatio
     return a * b;  
     }
 
-***
+
 
 **Completed projects**
 
